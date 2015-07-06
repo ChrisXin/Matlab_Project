@@ -1,1 +1,0 @@
-How Euler Method works?
